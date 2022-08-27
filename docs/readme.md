@@ -1,17 +1,17 @@
 ---
 home: true
-heroImage: /spider.png
-heroText: 我的主页
-tagline: My homepage
-actionText: 技术文档 →
+heroImage: /chenuvi-1.jpeg
+heroText: 陳有味的人生烂笔头～
+tagline: ChenUvi's Personal Blog 
+actionText: 开始 →
 actionLink: /tech/interview/my-blog.md
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: 陈有味的个人博客
+- title: A Blog
+  details: 记录个人所得，分享我想记录的。
+- title: For Me ：  不要抛弃学问
+  details:  易卜生说：“你的最大责任是把你这块材料铸造成器。” 学问便是铸器的工具。抛弃了学问便是毁了你自己。
+- title: For Future ： 做好自己
+  details: 好好吃饭 好好休息 好好工作和学习 锻炼身体。
+footer: Copyright © 2019-present ChenUvi
 ---
 

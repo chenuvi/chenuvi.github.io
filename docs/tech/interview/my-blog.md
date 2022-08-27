@@ -17,10 +17,9 @@
 
 [立即执行函数](/src/js/IIFE/iife.md)
 
+<!-- [懒加载](src/js/lazyload.md) -->
+
 [闭包](src/js/closure/closure.md)
-
-
-[懒加载](src/js/lazyload/lazyload.md)
 
 [](#)
 
